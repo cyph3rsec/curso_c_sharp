@@ -1,0 +1,15 @@
+D:\MyCSharp_Course\Class14\Class14\bin\Debug\net6.0\Class14.exe
+D:\MyCSharp_Course\Class14\Class14\bin\Debug\net6.0\Class14.deps.json
+D:\MyCSharp_Course\Class14\Class14\bin\Debug\net6.0\Class14.runtimeconfig.json
+D:\MyCSharp_Course\Class14\Class14\bin\Debug\net6.0\Class14.dll
+D:\MyCSharp_Course\Class14\Class14\bin\Debug\net6.0\Class14.pdb
+D:\MyCSharp_Course\Class14\Class14\obj\Debug\net6.0\Class14.csproj.AssemblyReference.cache
+D:\MyCSharp_Course\Class14\Class14\obj\Debug\net6.0\Class14.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCSharp_Course\Class14\Class14\obj\Debug\net6.0\Class14.AssemblyInfoInputs.cache
+D:\MyCSharp_Course\Class14\Class14\obj\Debug\net6.0\Class14.AssemblyInfo.cs
+D:\MyCSharp_Course\Class14\Class14\obj\Debug\net6.0\Class14.csproj.CoreCompileInputs.cache
+D:\MyCSharp_Course\Class14\Class14\obj\Debug\net6.0\Class14.dll
+D:\MyCSharp_Course\Class14\Class14\obj\Debug\net6.0\refint\Class14.dll
+D:\MyCSharp_Course\Class14\Class14\obj\Debug\net6.0\Class14.pdb
+D:\MyCSharp_Course\Class14\Class14\obj\Debug\net6.0\Class14.genruntimeconfig.cache
+D:\MyCSharp_Course\Class14\Class14\obj\Debug\net6.0\ref\Class14.dll

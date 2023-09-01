@@ -1,0 +1,8 @@
+D:\MyCSharp_Course\Class7\Class7\bin\Debug\Class7.exe.config
+D:\MyCSharp_Course\Class7\Class7\bin\Debug\Class7.exe
+D:\MyCSharp_Course\Class7\Class7\bin\Debug\Class7.pdb
+D:\MyCSharp_Course\Class7\Class7\obj\Debug\Class7.csproj.AssemblyReference.cache
+D:\MyCSharp_Course\Class7\Class7\obj\Debug\Class7.csproj.SuggestedBindingRedirects.cache
+D:\MyCSharp_Course\Class7\Class7\obj\Debug\Class7.csproj.CoreCompileInputs.cache
+D:\MyCSharp_Course\Class7\Class7\obj\Debug\Class7.exe
+D:\MyCSharp_Course\Class7\Class7\obj\Debug\Class7.pdb

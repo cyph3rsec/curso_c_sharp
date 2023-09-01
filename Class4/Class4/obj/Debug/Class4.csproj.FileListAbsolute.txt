@@ -1,0 +1,8 @@
+D:\MyCSharp_Course\Class4\Class4\bin\Debug\Class4.exe.config
+D:\MyCSharp_Course\Class4\Class4\bin\Debug\Class4.exe
+D:\MyCSharp_Course\Class4\Class4\bin\Debug\Class4.pdb
+D:\MyCSharp_Course\Class4\Class4\obj\Debug\Class4.csproj.AssemblyReference.cache
+D:\MyCSharp_Course\Class4\Class4\obj\Debug\Class4.csproj.SuggestedBindingRedirects.cache
+D:\MyCSharp_Course\Class4\Class4\obj\Debug\Class4.csproj.CoreCompileInputs.cache
+D:\MyCSharp_Course\Class4\Class4\obj\Debug\Class4.exe
+D:\MyCSharp_Course\Class4\Class4\obj\Debug\Class4.pdb

@@ -1,0 +1,15 @@
+D:\MyCSharp_Course\ReadData\ReadData\bin\Debug\net6.0\ReadData.exe
+D:\MyCSharp_Course\ReadData\ReadData\bin\Debug\net6.0\ReadData.deps.json
+D:\MyCSharp_Course\ReadData\ReadData\bin\Debug\net6.0\ReadData.runtimeconfig.json
+D:\MyCSharp_Course\ReadData\ReadData\bin\Debug\net6.0\ReadData.dll
+D:\MyCSharp_Course\ReadData\ReadData\bin\Debug\net6.0\ReadData.pdb
+D:\MyCSharp_Course\ReadData\ReadData\obj\Debug\net6.0\ReadData.csproj.AssemblyReference.cache
+D:\MyCSharp_Course\ReadData\ReadData\obj\Debug\net6.0\ReadData.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCSharp_Course\ReadData\ReadData\obj\Debug\net6.0\ReadData.AssemblyInfoInputs.cache
+D:\MyCSharp_Course\ReadData\ReadData\obj\Debug\net6.0\ReadData.AssemblyInfo.cs
+D:\MyCSharp_Course\ReadData\ReadData\obj\Debug\net6.0\ReadData.csproj.CoreCompileInputs.cache
+D:\MyCSharp_Course\ReadData\ReadData\obj\Debug\net6.0\ReadData.dll
+D:\MyCSharp_Course\ReadData\ReadData\obj\Debug\net6.0\refint\ReadData.dll
+D:\MyCSharp_Course\ReadData\ReadData\obj\Debug\net6.0\ReadData.pdb
+D:\MyCSharp_Course\ReadData\ReadData\obj\Debug\net6.0\ReadData.genruntimeconfig.cache
+D:\MyCSharp_Course\ReadData\ReadData\obj\Debug\net6.0\ref\ReadData.dll
